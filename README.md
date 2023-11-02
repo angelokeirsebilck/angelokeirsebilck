@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Currently working at <a target="_blank" href="https://www.boa.be">BOA</a> as a Front-End Web Developer with focus on Craft CMS & Nuxt3.<br>📚 Learning SvelteKit & Payload CMS.<br>🎯 Goals: Create a SaaS by the end of 2023.</p>
+<p align="left">👨‍💻 Currently working at <a target="_blank" href="https://www.boa.be">BOA</a> as a Front-End Web Developer with focus on Craft CMS & Nuxt3.<br></p>
 
 ###
 
